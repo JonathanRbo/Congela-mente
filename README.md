@@ -37,5 +37,3 @@
 - Hover 3D nos cards de sabores
 - Contador de promocao em destaque
 
-## Arquivo
-`sorveteria.html`
